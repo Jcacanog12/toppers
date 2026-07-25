@@ -1,5 +1,5 @@
 {
-  "Version": "2.9",
+  "Version": "2.12",
   "Servers": [
     {
       "Name": "OpenVPN Test",
@@ -40,6 +40,46 @@
       "Cert": 1,
       "UseDefaultServers": false,
       "ServerEntry": ""
+    },
+    {
+      "Name": "Any V2RAY 🌍",
+      "Flag": "AA.png",
+      "ServerIPHost": "",
+      "ServerCloudFrontHost": "",
+      "ServerHTTPHost": "",
+      "Category": "PREMIUM",
+      "OpenVPNTCPPort": "1193",
+      "OpenVPNSSLPort": "443",
+      "Username": "",
+      "Password": "",
+      "Nameserver": "",
+      "PublicKey": "",
+      "Payload": "5\/xLaRSW0Nu0AUWUDKQdxfjAPFQ=",
+      "Protocol": 2,
+      "AutoLogin": false,
+      "Cert": 1,
+      "UseDefaultServers": false,
+      "ServerEntry": ""
+    },
+    {
+      "Name": "DNSTT Server",
+      "Flag": "US.png",
+      "ServerIPHost": "",
+      "ServerCloudFrontHost": "",
+      "ServerHTTPHost": "",
+      "Category": "PREMIUM",
+      "OpenVPNTCPPort": "1193",
+      "OpenVPNSSLPort": "443",
+      "Username": "vKVuPzMACSI+BotV",
+      "Password": "vKVuPzMACSI+BotV",
+      "Nameserver": "f6dLYO18aIJTJk9yDB9yK4aId91JX0cbLSwLTw==",
+      "PublicKey": "MeU\/hp+8S7tYblhF7GQQEU9pVxS9ZDqnHUbREMSYtXuoGQeJPRgMWSeNDX97G\/iBaZusfAIfSKm9hxGnjxTJx7XKsqM=",
+      "Payload": "J\/KKw1ZGAiJFDmMa",
+      "Protocol": 6,
+      "AutoLogin": true,
+      "Cert": 1,
+      "UseDefaultServers": false,
+      "ServerEntry": ""
     }
   ],
   "Networks": [
@@ -76,14 +116,65 @@
         "Squid": "OnLlEBA4cNienmz00K1\/iGq+Mmg=",
         "Port": "80"
       }
+    },
+    {
+      "Name": "test",
+      "Payload": "",
+      "Info": "test",
+      "Protocol": 0,
+      "TunnelType": 7,
+      "isCustomConfig": false,
+      "FrontQuery": "",
+      "BackQuery": "",
+      "Priority": 0,
+      "Mode": 1,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "msaEnKoj7ZNe+AMUyLoavg==",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇵🇭 PH - Smart-TnT UnliTikTok",
+      "Payload": "8K0\/Vpg3F4d8bNPEzPI4H0ErC+2nr+pYgEBs8\/K8fnORjdlZIozroTdWqpKxwIetZ9s6denWCWM0FFJxoKNBETAO3Zs3KgM2dqj\/4YPCt\/l5E6Y7hYM0C2ZkiC8Kw3ZelX3FVLZdV83KsIC188\/p7nNb9+nfA11Ohtxck1LbuP4c3W3wKxx5KYo548DYRAZX1u0HYqb+SfpFlhIXfWHx2HD5gs9+RkuNjyQlRg==",
+      "Info": "First Consume",
+      "Protocol": 0,
+      "TunnelType": 7,
+      "isCustomConfig": true,
+      "FrontQuery": "",
+      "BackQuery": "",
+      "Priority": 0,
+      "Mode": 1,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "msaEnKoj7ZNe+AMUyLoavg==",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "Google DNS",
+      "Payload": "iuJfLHEKGv2lspEm",
+      "Info": "Premium",
+      "Protocol": 0,
+      "TunnelType": 9,
+      "isCustomConfig": false,
+      "FrontQuery": "",
+      "BackQuery": "",
+      "Priority": 0,
+      "Mode": 1,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "msaEnKoj7ZNe+AMUyLoavg==",
+        "Port": ""
+      }
     }
   ],
   "SSLNetworks": [],
   "Username": "",
   "Password": "",
   "OVPNCert": "CqfNFeDIh4tGmmxVpVA2wVVQWnn\/d\/ap1aapu9lauME74ySBk6zALZ+3MbRmVtVs+mqHCDAzi8O6tZG\/WLpHmxZsJhGAbFgPxGt+Ck0hERzcYcM\/JLnsQVCSEYWnO+c0Rw1rKANaI6IInexc6nkjcTI0oIDdeSfHz4vKU1iZJGtY3Xa9kClILEcsal8qpR5wdnujYmG3Vmfs4JGjceQNtZ9EthwfkKgl8J+oXRmLd7FC7AOEdrQsgm32o3SWF85BiXQmKlo2fv2Ih8eJBkXfI3Fw6v\/jDKJ5vZjJpVM8pat2R8R+2oZGOCGPjujwofKvni7vHaiEUYnT8bC6VMJzC0aNLiB8dX3TWn9STiN13A5fP1X4aPR3HY04fjQhFlzEVO1t4s3r+qSZGxrkD9wcIDvwxAfvmXdltzY+iCbzimLc7b+vMd4GmGEnNoTHznLDyONT\/KQCawHkrydSVqDD6Vetm10L584x\/3XP6B2rrUyrlaop\/aC8nEvUTbEoHZ5P1JJfSlWNqU0y9ocFMYakhd\/Cn4eYFsnhIabYxqgYkMZ8cfd351IGGTuTv4Ql2NQCqW36oLaQjFOHPYIxPr5cwa8XUglabWa3FO5+NgexAG2aRzLRAAR1y6M0SVaIgkzjx43HmqOz4ug7kwqwvAvOdgvh4AvK6hs5MtDIyHGJa4UY8+N3wqIJfa9MoN+iBAJbi1jyZlygn0K480sYzGWaQd1WA13tIa5lq2773jImZD6RpQrpknZk4c+KlpH6KoocyI9OHNkQLW6lDr0VII71PbASUNuCuOPQCdi6kXN8tV9uE0JXcTQt2vy\/4JFZ+Vta2yadcr0lT4m8wmkqn7mW3NGT+78qUA\/LMQd9sPSnnHlfLnZwGjWOfGpvAtTDqHuZm89ZhbpCWd6TT1p0tox0eWVJGXOvefso\/d0uD9sRpZ3CNnRWKf\/6I2I5gmjRfuLsq\/U+T8cUpwm5c3M7XBe4He8VxmDJYPZP1SphTopnr2ajZFZgAzFvnK5Ayld8ww7KzQF6Q2rTKfbHnWBWrX2cOI\/3MSgGEKux85jvL5gWnpdaMfJ8A9UIyJbczifQbgCuwDTeu5vH8n\/ugURUCR2L90Jv4Z3lVoQncgVAHaxd5d6clxYuWP6+aGLXhfhuredf+\/6WrryF9iIrSgiPiUdkkfzv0M5FucW+0XC4clWE+LNQn8vp7zlHvn03AQjiOYUa8uKAmZrs\/udfiPDBWX03HILhEK+d\/wYFO47Fgb\/BkcBqJcSoZf0LeZaTfmTb\/XY2ucsHlwfiMzK5c3sjmcpKVNA4wFjF0sr3",
-  "Notes": "2.9",
-  "RecentChanges": "2.9",
+  "Notes": "2.12",
+  "RecentChanges": "2.12",
   "banner_ad": "",
   "interstitial_ad": "",
   "rewarded_ad": "",
