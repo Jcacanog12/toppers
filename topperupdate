@@ -88,23 +88,6 @@
   ],
   "Networks": [
     {
-      "Name": "🇵🇭 PH - Smart TNT UnliTikTok",
-      "Payload": "8K0\/Vpg3F4d8bNPEzPI4H0ErC+2nr+pYgEBs8\/K8fnORjdlZIozroTdWqpKxwIetZ9s6denWCWM0FFJxoKNBETAO3Zs3KgM2dqj\/4YPCt\/l5E6Y7hYM0C2ZkiC8Kw3ZelX3FVLZdV83KsIC188\/p7nNb9+nfA11Ohtxck1LbuP4c3W3wKxx5KYo548DYRAZX1u0HYqb+SfpFlhIXfWHx2HD5gs9+RkuNjyQlRg==",
-      "Info": "First Consume",
-      "Protocol": 0,
-      "TunnelType": 7,
-      "isCustomConfig": true,
-      "FrontQuery": "",
-      "BackQuery": "",
-      "Priority": 0,
-      "Mode": 1,
-      "ServerHostDNS": "cf",
-      "ProxySettings": {
-        "Squid": "msaEnKoj7ZNe+AMUyLoavg==",
-        "Port": ""
-      }
-    },
-    {
       "Name": "ALL Country 🌍",
       "Payload": "",
       "Info": "Sonic",
@@ -122,9 +105,26 @@
       }
     },
     {
+      "Name": "🇵🇭 PH - Smart TNT UnliTikTok",
+      "Payload": "8K0\/Vpg3F4d8bNPEzPI4H0ErC+2nr+pYgEBs8\/K8fnORjdlZIozroTdWqpKxwIetZ9s6denWCWM0FFJxoKNBETAO3Zs3KgM2dqj\/4YPCt\/l5E6Y7hYM0C2ZkiC8Kw3ZelX3FVLZdV83KsIC188\/p7nNb9+nfA11Ohtxck1LbuP4c3W3wKxx5KYo548DYRAZX1u0HYqb+SfpFlhIXfWHx2HD5gs9+RkuNjyQlRg==",
+      "Info": "First Consume",
+      "Protocol": 0,
+      "TunnelType": 7,
+      "isCustomConfig": true,
+      "FrontQuery": "",
+      "BackQuery": "",
+      "Priority": 0,
+      "Mode": 1,
+      "ServerHostDNS": "cf",
+      "ProxySettings": {
+        "Squid": "msaEnKoj7ZNe+AMUyLoavg==",
+        "Port": ""
+      }
+    },
+    {
       "Name": "🇵🇰 Pakistan Jazz Free [SSH]",
       "Payload": "gY9f+87rkzxuR79Od1xxvI291AYbXwfLf4RkOZtSzIMKBppUVtlAK5LQZrFPRbWlVovPM1y1qwgxpdmu2KJ59zC5HavkyEjJ",
-      "Info": "Test",
+      "Info": "Sonic",
       "Protocol": 2,
       "TunnelType": 2,
       "isCustomConfig": false,
@@ -141,7 +141,7 @@
     {
       "Name": "🇵🇰 Pakistan Jazz Free [OVPN]",
       "Payload": "gY9f+87rkzxuR79Od1xxvI291AYbXwfLf4RkOZtSzIMKBppUVtlAK5LQZrFPRbWlVovPM1y1qwgxpdmu2KJ59zC5HavkyEjJ",
-      "Info": "test",
+      "Info": "Sonic",
       "Protocol": 0,
       "TunnelType": 2,
       "isCustomConfig": false,
